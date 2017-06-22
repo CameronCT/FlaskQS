@@ -11,6 +11,6 @@ SETTINGS = {
 }
 
 CDN = {
-    'CSS':      'http://localhost:5000/assets/css',
-    'JS':       'http://localhost:5000/assets/css'
+    'CSS':      'http://localhost:5000/static/css',
+    'JS':       'http://localhost:5000/static/js'
 }
